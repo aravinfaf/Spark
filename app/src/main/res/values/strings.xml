@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Spark</string>
+    <string name="APIKEY">AIzaSyCLXukMxYC7jL_HDXn79CTbG284CIP6UDY</string>
+    <string name="permission_refused">Permission was not granted</string>
+    <string name="permission_request_title">Special Permission Request</string>
+    <string name="app_permission_notice">This permission request is very important to your app functionality. If it is not granted your app might not work the way it is intended</string>
+    <string name="failed_draw">Empty line path return</string>
+    <string name="server_error">Server error. Something when wrong with the server</string>
+    <string name="no_favorite_contacts_found">No Favorite Contacts Found!</string>
+    <string name="login_options">Login Options</string>
+    <string name="clientid">1047013592766-1st4dh5744ms6o6lu4aor6fvo7nr6ofo.apps.googleusercontent.com</string>
+    <string name="clientidnew">1047013592766-1dkfqrvch90bkl70jvdk4ntu7ke0vm5o.apps.googleusercontent.com</string>
+    <string name="webid">1047013592766-r0dcib5hg724inokeg60amlmgohi1699.apps.googleusercontent.com</string>
+</resources>

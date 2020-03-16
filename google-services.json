@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1047013592766",
+    "firebase_url": "https://spark-b9386.firebaseio.com",
+    "project_id": "spark-b9386",
+    "storage_bucket": "spark-b9386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047013592766:android:04c6f4da8c0807ab1d58ef",
+        "android_client_info": {
+          "package_name": "com.gojek.spark_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047013592766-1st4dh5744ms6o6lu4aor6fvo7nr6ofo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gojek.spark_test",
+            "certificate_hash": "ca22cc1d1337d7002c5caec2b69751ff159a5d3f"
+          }
+        },
+        {
+          "client_id": "1047013592766-gedvgjjhjunhojtq0qpamdul159gejo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEtM2JjDXKYwwNMeTpu5z9vqLxJMgvJU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047013592766-gedvgjjhjunhojtq0qpamdul159gejo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
